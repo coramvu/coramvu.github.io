@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Coramvu - Corporación Ambiental Voluntariado Universitario</title>
+    <link>https://coramvu.github.io/categories/blog/</link>
+    <description>Recent content in Blog on Coramvu - Corporación Ambiental Voluntariado Universitario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es_Co</language>
+    <copyright>Copyright (c) 2018 - 2020, Coramvu; Todos los derechos reservados.</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 13:50:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://coramvu.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Actualización de papelería</title>
+      <link>https://coramvu.github.io/blog/2018/04/01/actualizacion-legal/</link>
+      <pubDate>Sun, 01 Apr 2018 13:50:46 +0000</pubDate>
+      
+      <guid>https://coramvu.github.io/blog/2018/04/01/actualizacion-legal/</guid>
+      <description>Hola visitante! Hemos actualizado nuestra papelería legal, si deseas revisarla pudes hacerlo por este enlace</description>
+    </item>
+    
+    <item>
+      <title>Entradas antiguas</title>
+      <link>https://coramvu.github.io/blog/2018/01/01/entradas-antiguas/</link>
+      <pubDate>Mon, 01 Jan 2018 13:50:46 +0000</pubDate>
+      
+      <guid>https://coramvu.github.io/blog/2018/01/01/entradas-antiguas/</guid>
+      <description>Puedes revisar nuestras entradas antiguas en http://coramvu.blogspot.com.co/</description>
+    </item>
+    
+  </channel>
+</rss>
