@@ -7,62 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es_Co</language>
     <copyright>Copyright (c) 2018 - 2020, Coramvu; Todos los derechos reservados.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 13:50:46 +0000</lastBuildDate>
     
 	<atom:link href="https://coramvu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Go</title>
-      <link>https://coramvu.github.io/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Blog</title>
+      <link>https://coramvu.github.io/tags/blog/</link>
+      <pubDate>Sun, 01 Apr 2018 13:50:46 +0000</pubDate>
       
-      <guid>https://coramvu.github.io/tags/go/</guid>
+      <guid>https://coramvu.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://coramvu.github.io/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Coramvu</title>
+      <link>https://coramvu.github.io/tags/coramvu/</link>
+      <pubDate>Sun, 01 Apr 2018 13:50:46 +0000</pubDate>
       
-      <guid>https://coramvu.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://coramvu.github.io/tags/hugo/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://coramvu.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://coramvu.github.io/tags/ipsum/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://coramvu.github.io/tags/ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://coramvu.github.io/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://coramvu.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://coramvu.github.io/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://coramvu.github.io/tags/theme/</guid>
+      <guid>https://coramvu.github.io/tags/coramvu/</guid>
       <description></description>
     </item>
     
