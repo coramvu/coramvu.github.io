@@ -8,17 +8,27 @@
   </url>
   
   <url>
-    <loc>https://coramvu.github.io/blog/2018/04/01/actualizacion-legal/</loc>
-    <lastmod>2018-04-01T13:50:46+00:00</lastmod>
+    <loc>https://coramvu.github.io/blog/</loc>
+    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.github.io/blog/2018/01/01/entradas-antiguas/</loc>
-    <lastmod>2018-01-01T13:50:46+00:00</lastmod>
+    <loc>https://coramvu.github.io/categories/</loc>
+    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.github.io/about/</loc>
+    <loc>https://coramvu.github.io/</loc>
+    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coramvu.github.io/tags/</loc>
+    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,31 +44,22 @@
   </url>
   
   <url>
-    <loc>https://coramvu.github.io/blog/</loc>
-    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://coramvu.github.io/categories/</loc>
-    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://coramvu.github.io/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://coramvu.github.io/tags/coramvu/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.github.io/</loc>
-    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://coramvu.github.io/blog/2018/01/01/entradas-antiguas/</loc>
+    <lastmod>2018-01-01T13:50:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coramvu.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://coramvu.github.io/contact/</loc>
   </url>
   
   <url>
@@ -67,12 +68,6 @@
   
   <url>
     <loc>https://coramvu.github.io/legal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://coramvu.github.io/tags/</loc>
-    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

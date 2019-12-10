@@ -6,14 +6,13 @@
     <description>Recent content in Categories on Coramvu - Corporación Ambiental Voluntariado Universitario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es_Co</language>
-    <copyright>Copyright (c) 2018 - 2020, Coramvu; Todos los derechos reservados.</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 13:50:46 +0000</lastBuildDate>
     
 	<atom:link href="https://coramvu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>https://coramvu.github.io/categories/blog/</link>
       <pubDate>Mon, 01 Apr 2019 13:50:46 +0000</pubDate>
       

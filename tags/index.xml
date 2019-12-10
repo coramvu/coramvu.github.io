@@ -6,14 +6,13 @@
     <description>Recent content in Tags on Coramvu - Corporación Ambiental Voluntariado Universitario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es_Co</language>
-    <copyright>Copyright (c) 2018 - 2020, Coramvu; Todos los derechos reservados.</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 13:50:46 +0000</lastBuildDate>
     
 	<atom:link href="https://coramvu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>https://coramvu.github.io/tags/blog/</link>
       <pubDate>Mon, 01 Apr 2019 13:50:46 +0000</pubDate>
       
@@ -22,7 +21,7 @@
     </item>
     
     <item>
-      <title>Coramvu</title>
+      <title>coramvu</title>
       <link>https://coramvu.github.io/tags/coramvu/</link>
       <pubDate>Mon, 01 Apr 2019 13:50:46 +0000</pubDate>
       
