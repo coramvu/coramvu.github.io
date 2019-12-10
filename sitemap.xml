@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://coramvu.org/blog/2019/04/01/actualizacion-legal/</loc>
+    <loc>http://coramvu.org/blog/2019/04/01/actualizacion-legal/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://coramvu.org/blog/</loc>
-    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://coramvu.org/categories/</loc>
+    <loc>http://coramvu.org/blog/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/</loc>
+    <loc>http://coramvu.org/categories/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/tags/</loc>
+    <loc>http://coramvu.org/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/categories/blog/</loc>
+    <loc>http://coramvu.org/tags/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/tags/blog/</loc>
+    <loc>http://coramvu.org/categories/blog/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/tags/coramvu/</loc>
+    <loc>http://coramvu.org/tags/blog/</loc>
     <lastmod>2019-04-01T13:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://coramvu.org/blog/2018/01/01/entradas-antiguas/</loc>
+    <loc>http://coramvu.org/tags/coramvu/</loc>
+    <lastmod>2019-04-01T13:50:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://coramvu.org/blog/2018/01/01/entradas-antiguas/</loc>
     <lastmod>2018-01-01T13:50:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://coramvu.org/about/</loc>
+    <loc>http://coramvu.org/about/</loc>
   </url>
   
   <url>
-    <loc>https://coramvu.org/contact/</loc>
+    <loc>http://coramvu.org/contact/</loc>
   </url>
   
   <url>
-    <loc>https://coramvu.org/faq/</loc>
+    <loc>http://coramvu.org/faq/</loc>
   </url>
   
   <url>
-    <loc>https://coramvu.org/legal/</loc>
+    <loc>http://coramvu.org/legal/</loc>
   </url>
   
 </urlset>
