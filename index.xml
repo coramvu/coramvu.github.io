@@ -6,10 +6,19 @@
     <description>Recent content on Coramvu - Corporación Ambiental Voluntariado Universitario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es_Co</language>
-    <lastBuildDate>Fri, 29 May 2020 13:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 10:05:20 +0000</lastBuildDate>
     
 	<atom:link href="http://coramvu.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Actualización de papelería</title>
+      <link>http://coramvu.org/blog/2021/04/22/actualizacion-legal/</link>
+      <pubDate>Thu, 22 Apr 2021 10:05:20 +0000</pubDate>
+      
+      <guid>http://coramvu.org/blog/2021/04/22/actualizacion-legal/</guid>
+      <description>Hola visitante! Hemos actualizado nuestra papelería legal para el año 2021, si deseas revisarla puedes hacerlo siguiendo este enlace</description>
+    </item>
     
     <item>
       <title>Actualización de papelería</title>
@@ -72,9 +81,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://coramvu.org/legal/</guid>
-      <description> En CORAMVU nos gusta mucho hacer las cosas bien y eso implica tener toda la papelería legal en regla. Ponemos a su disposición nuestra papelería actualizada para la fecha de 29 Mayo de 2020. Puede visualizar los documentos dando clic en cualquier elemento de la lista,
+      <description> En CORAMVU nos gusta mucho hacer las cosas bien y eso implica tener toda la papelería legal en regla. Ponemos a su disposición nuestra papelería actualizada para la fecha de 22 de Abril de 2021. Puede visualizar los documentos dando clic en cualquier elemento de la lista,
 Ante cualquier duda, no dude en contactarnos
-2020  Acta de asamblea Certificado de requisitos - Régimen tributario Certificado ESAL Estatutos de la corporación Informe de gestión 2019  2019  Acta de asamblea Certificado de requisitos - Régimen tributario Certificado de existencia Certificado ESAL Estados financieros Estatutos de la corporación Informe de gestión 2018  </description>
+2021  Acta de asamblea Certificado de requisitos - Régimen Tributario Certificado ESAL 2020 Estado situación financiera 2020 Informe de gestión 2020 Revelaciones estados financieros 2020  2020  Acta de asamblea Certificado de requisitos - Régimen tributario Certificado ESAL Estatutos de la corporación Informe de gestión 2019  2019  Acta de asamblea Certificado de requisitos - Régimen tributario Certificado de existencia Certificado ESAL Estados financieros Estatutos de la corporación Informe de gestión 2018  </description>
     </item>
     
   </channel>
